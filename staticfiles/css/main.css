@@ -1,0 +1,23 @@
+body {
+  background-color: #650ff0 !important;
+}
+
+#profile-wrapper {
+  text-align: center;
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+.social-links ul,
+li {
+  list-style-type: none;
+  display: inline-block;
+}
+
+.social {
+  width: 10px;
+  height: 10px;
+}
